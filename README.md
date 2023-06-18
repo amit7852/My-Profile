@@ -22,7 +22,6 @@
 
 ### 😂 Random Dev Meme
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=moonlight)
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amit7852&icon=6&color=3)](https://visitcount.itsvg.in)
