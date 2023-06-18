@@ -21,6 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=moonlight)
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
